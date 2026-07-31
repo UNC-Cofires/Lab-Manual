@@ -1,2 +1,2 @@
-# Lab-Manual
-Greg's declassified grad school survival guide
+# IRMII Lab Manual
+Click on the wiki tab for how-to guides, helpful tips, and lore.
